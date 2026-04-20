@@ -1,4 +1,4 @@
-package com.tickets.inventoryservice;
+package com.avionmission.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
